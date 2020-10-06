@@ -6,4 +6,4 @@
 - 💬 Ask me about novels, my ideas that could bring change in our world.
 - 📫 How to reach me: Linkedin: https://www.linkedin.com/in/gurleen-kaur-b861a1175/
 - 😄 Pronouns: peace 
-- ⚡ Fun fact: Ambivert, supports balance and tries to be fair witheveryone :)
+- ⚡ Fun fact: Ambivert, supports balance and tries to be fair with everyone :)

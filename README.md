@@ -2,17 +2,17 @@
 
 <table align="center">
 <td>  
-📝 I am a third year undergrad at Birla Institute of Technolgy Mesra pursuing Electrical Engineering. <br>
-🤞  I have been <strong>Ethereum India Fellowship Holder </strong> <br>
-✨ 2x Hackathons 🏆 <br>
+📝 I am a third year undergrad at Birla Institute of Technolgy Mesra. <br>
+🤞  I have been <strong>Ethereum India Fellow'21 supported by @Ethereum Foundation </strong> <br>
+✨ 2x <strong>Hackathon</strong> winner @Devfolio and @Devpost🏆 <br>
 🏆 <strong>Solidity Developer Intern </strong>  @totality-corp, creating smoother experience for Buying selling and minting NFTs . <br>
-⚡ In my free time, I love reading 📚, listen to songsand exploring the unknown (i.e., History and philosophy for me))</td> <br>
+⚡ In my free time, I love reading 📚, listen to songs and exploring the unknown (i.e., History and philosophy for me))</td> <br>
   <table>
   
     
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hkaur008&show_icons=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hkaur008&theme=jolly" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gurleen3&show_icons=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gurleen3&theme=jolly" />
 </p>
 
   <table align="center">

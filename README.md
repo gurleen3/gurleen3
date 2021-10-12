@@ -1,4 +1,4 @@
-<img src="https://github.com/gurleen3/gurleen3/blob/main/root/screen-capture%20(5) (1).gif"/>
+
 
 <table align="center">
 <td>  

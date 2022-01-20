@@ -3,9 +3,10 @@
 <table align="center">
 <td>  
 📝 I am a third year undergrad at Birla Institute of Technolgy Mesra. <br>
-🤞  I have been <strong>Ethereum India Fellow'21 supported by @Ethereum Foundation </strong> <br>
-✨ 2x <strong>Hackathon</strong> winner @Devfolio and @Devpost🏆 <br>
-🏆 <strong>Solidity Developer Intern </strong>  @totality-corp, creating smoother experience for Buying selling and minting NFTs . <br>
+🚀 <strong>Product Engineer Intern </strong> @avantifellows<br>
+🤞 I have been <strong>Ethereum India Fellow'21 supported by @Ethereum Foundation </strong> <br>
+🥇 2x <strong>Hackathon</strong> winner @Devfolio and @Devpost <br>
+🏆 Ex-<strong>Solidity Developer Intern </strong>  @totality-corp, creating smoother experience for Buying selling and minting NFTs . <br>
 ⚡ In my free time, I love reading 📚, listen to songs and exploring the unknown (i.e., History and philosophy for me))</td> <br>
   <table>
   
